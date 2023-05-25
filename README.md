@@ -1,5 +1,5 @@
 # Hello, world!
 
-я учусь в Нетологии
+Im study in Netology
 
-22.05.2023
+25.05.2023
